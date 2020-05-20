@@ -14,3 +14,4 @@ La única función, **get_random_chiste()**, devuelve como string el texto de un
 
 ## Créditos
 La página _chistes.com_ porque de ahí saco los chistes.
+El módulo _BeautifulSoup_
