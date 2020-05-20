@@ -3,9 +3,9 @@ Script de Python que te permite obtener un chiste al azar de miles con un comand
 
 ## Utilidad
 ```python
-import chistesESP
+import chistesESP as c
 
-chiste = get_random_chiste()
+chiste = c.get_random_chiste()
 print(chiste)
 ```
 
