@@ -1,4 +1,4 @@
-# chistesES-py
+# chistesESP-py
 Script de Python que te permite obtener un chiste al azar de miles con un comando.
 
 ## Utilidad
